@@ -1,7 +1,7 @@
 # 🚀 Raiseup CRM & Data Engineering Platform
 
 <p align="center">
-  <img src="screenshots/app_home.png" alt="Raiseup CRM Dashboard" width="100%">
+  <img src="screenshots/crm_login.png" alt="Raiseup CRM Login" width="100%">
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ cd Raiseup_CRM
    streamlit run app.py
 
 📸 Screenshots
-| CRM Dashboard | Analytics & OLAP |
+| Users Analytics | OLTP vs OLAP Dashboard |
 |---|---|
 |  |  |
 🛠️ Tech Stack
