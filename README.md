@@ -1,10 +1,10 @@
-🚀 Raiseup CRM & Data Engineering Platform
+<h1 align="center">🚀 Raiseup CRM & Data Engineering Platform</h1>
 <p align="center">
 <img src="screenshots/crm_login.png" alt="Raiseup CRM Login" width="100%">
 </p>
 <p align="center">
 <img src="[https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)" alt="Python">
-<img src="[https://img.shields.io/badge/PostgreSQL-Star%20Schema-336791?style=for-the-badge&logo=postgresql](https://img.shields.io/badge/PostgreSQL-Star%20Schema-336791?style=for-the-badge&logo=postgresql)" alt="PostgreSQL">
+<img src="[https://img.shields.io/badge/PostgreSQL-Star_Schema-336791?style=for-the-badge&logo=postgresql](https://img.shields.io/badge/PostgreSQL-Star_Schema-336791?style=for-the-badge&logo=postgresql)" alt="PostgreSQL">
 <img src="[https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb)" alt="MongoDB">
 <img src="[https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit)" alt="Streamlit">
 <img src="[https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker)" alt="Docker">
