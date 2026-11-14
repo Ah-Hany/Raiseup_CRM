@@ -24,12 +24,20 @@ MongoDB ─────┘                       |
 📂 Repository Structure
 
 Raiseup_CRM/
+│
 ├── sql/
 │   ├── app_users.sql
 │   ├── posts.sql
 │   ├── users.sql
 │   └── partitioned.sql
+│
 ├── screenshots/
+│   ├── crm_login.png
+│   ├── users_analytics.png
+│   ├── oltp_vs_olap_dashboard.png
+│   ├── etl_pipeline.png
+│   └── add_user_kafka.png
+│
 ├── ETL.py
 ├── OLTP_OLAP.py
 ├── app.py
@@ -38,8 +46,12 @@ Raiseup_CRM/
 
 📸 Project Screenshots
 
+Users Analytics & OLTP vs OLAP
+
 Users Analytics| OLTP vs OLAP
 "Users" (screenshots/users_analytics.png)| "Analytics" (screenshots/oltp_vs_olap_dashboard.png)
+
+ETL Pipeline & Kafka
 
 ETL Pipeline| Kafka Integration
 "ETL" (screenshots/etl_pipeline.png)| "Kafka" (screenshots/add_user_kafka.png)
@@ -65,4 +77,4 @@ streamlit run app.py
 
 Ahmed Hany
 
-"GitHub" (https://github.com/Ah-Hany)
+"GitHub Profile" (https://github.com/Ah-Hany)
